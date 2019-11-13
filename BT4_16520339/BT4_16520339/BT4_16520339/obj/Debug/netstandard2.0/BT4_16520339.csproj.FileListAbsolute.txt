@@ -1,0 +1,12 @@
+C:\Users\dothi\source\repos\BT4_16520339\BT4_16520339\BT4_16520339\bin\Debug\netstandard2.0\BT4_16520339.deps.json
+C:\Users\dothi\source\repos\BT4_16520339\BT4_16520339\BT4_16520339\bin\Debug\netstandard2.0\BT4_16520339.dll
+C:\Users\dothi\source\repos\BT4_16520339\BT4_16520339\BT4_16520339\obj\Debug\netstandard2.0\BT4_16520339.csprojAssemblyReference.cache
+C:\Users\dothi\source\repos\BT4_16520339\BT4_16520339\BT4_16520339\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dothi\source\repos\BT4_16520339\BT4_16520339\BT4_16520339\obj\Debug\netstandard2.0\BT4_16520339.csproj.CoreCompileInputs.cache
+C:\Users\dothi\source\repos\BT4_16520339\BT4_16520339\BT4_16520339\obj\Debug\netstandard2.0\BT4_16520339.AssemblyInfoInputs.cache
+C:\Users\dothi\source\repos\BT4_16520339\BT4_16520339\BT4_16520339\obj\Debug\netstandard2.0\BT4_16520339.AssemblyInfo.cs
+C:\Users\dothi\source\repos\BT4_16520339\BT4_16520339\BT4_16520339\bin\Debug\netstandard2.0\BT4_16520339.pdb
+C:\Users\dothi\source\repos\BT4_16520339\BT4_16520339\BT4_16520339\obj\Debug\netstandard2.0\Views\PageInsertLoaiHoa.xaml.g.cs
+C:\Users\dothi\source\repos\BT4_16520339\BT4_16520339\BT4_16520339\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dothi\source\repos\BT4_16520339\BT4_16520339\BT4_16520339\obj\Debug\netstandard2.0\BT4_16520339.dll
+C:\Users\dothi\source\repos\BT4_16520339\BT4_16520339\BT4_16520339\obj\Debug\netstandard2.0\BT4_16520339.pdb
